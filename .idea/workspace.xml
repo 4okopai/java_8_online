@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6afaec5f-d5b8-478f-8ab0-d86888f94042" name="Changes" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -20,6 +21,31 @@
       <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/remove_class.sh" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Goodbye.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_2/depends/libs/commons-lang3-3.12.0-tests.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_2/depends/src/ua/com/alevel/Goodbye.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_2/depends/src/ua/com/alevel/depends/Depends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_2/depends/src/ua/com/alevel/test/New_Message" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_2/final_1/libs/commons-lang3-3.12.0-tests.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_2/final_1/resources/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_2/final_1/run.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_2/final_1/src/ua/com/alevel/Goodbye.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_2/final_1/src/ua/com/alevel/depends/Depends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_2/final_1/src/ua/com/alevel/test/New_Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_2/final_2/libs/commons-lang3-3.12.0-tests.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_2/final_2/resources/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_2/final_2/run.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_2/final_2/src/ua/com/alevel/Goodbye.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_2/final_2/src/ua/com/alevel/depends/Depends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_2/final_2/src/ua/com/alevel/test/New_Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_2/minimal_jar/resources/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_2/minimal_jar/src/ua/com/alevel/Goodbye.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_2/minimal_proj/src/ua/com/alevel/test/New_Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_2/run.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_1_compilation/java/level_2/minimal_proj/src/ua/com/alevel/Goodbye.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_2/minimal_proj/src/ua/com/alevel/Goodbye.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_1_compilation/java/level_2/minimal_proj/src/ua/com/alevel/test/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_2/minimal_jar/src/ua/com/alevel/test/New_Message.java" afterDir="false" />
+>>>>>>> 03beb3b (java_8_online)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,10 +55,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
   "associatedIndex": -1
 }]]></component>
+=======
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: -1
+}</component>
+>>>>>>> 03beb3b (java_8_online)
   <component name="ProjectId" id="2Tl09BiqAZoMQbf5x2JIdJ4Ipk9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -50,7 +83,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+<<<<<<< HEAD
     "last_opened_file_path": "C:/Users/Влад/IdeaProjects/java_8_online",
+=======
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Влад/IdeaProjects/java_8_online/hw_1_compilation/java/level_2/depends",
+>>>>>>> 03beb3b (java_8_online)
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,6 +109,18 @@
     ]
   }
 }]]></component>
+<<<<<<< HEAD
+=======
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Влад\IdeaProjects\java_8_online\hw_1_compilation\java\level_2\depends" />
+      <recent name="C:\Users\Влад\IdeaProjects\java_8_online\hw_1_compilation\java\level_2\minimal_jar" />
+      <recent name="C:\Users\Влад\IdeaProjects\java_8_online\hw_1_compilation\java\level_2\final_2" />
+      <recent name="C:\Users\Влад\IdeaProjects\java_8_online\hw_1_compilation\java\level_2\final_1" />
+      <recent name="C:\Users\Влад\IdeaProjects\java_8_online\hw_1_compilation\java\level_2\depends\libs" />
+    </key>
+  </component>
+>>>>>>> 03beb3b (java_8_online)
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -79,13 +130,32 @@
       <option name="presentableId" value="Default" />
       <updated>1691593682000</updated>
       <workItem from="1691593682013" duration="8411000" />
+<<<<<<< HEAD
       <workItem from="1691602211305" duration="1504000" />
+=======
+      <workItem from="1691602211305" duration="2504000" />
+      <workItem from="1691605307482" duration="61000" />
+      <workItem from="1691671011582" duration="82000" />
+      <workItem from="1691703496961" duration="34000" />
+      <workItem from="1691703691815" duration="11000" />
+      <workItem from="1691957390747" duration="215000" />
+      <workItem from="1692033678320" duration="2140000" />
+      <workItem from="1692035829936" duration="1813000" />
+      <workItem from="1692090709431" duration="4992000" />
+>>>>>>> 03beb3b (java_8_online)
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java_8_online" />
+    <option name="LAST_COMMIT_MESSAGE" value="java_8_online" />
+  </component>
+>>>>>>> 03beb3b (java_8_online)
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
