@@ -1,23 +1,14 @@
 package ua.com.alevel;
 
-<<<<<<< HEAD
 import ua.com.alevel.test.Message;
-=======
-import ua.com.alevel.test.New_Message;
->>>>>>> 03beb3b (java_8_online)
+import ua.com.alevel.depends.Depends;
 
 public class Goodbye {
 
     public static void main(String[] args) {
-<<<<<<< HEAD
-//        ua.com.alevel.test.Message m = new ua.com.alevel.test.Message();
-
-        Message m = new Message();
-=======
 //        ua.com.alevel.test.New_Message m = new ua.com.alevel.test.New_Message();
 
-        New_Message m = new New_Message();
->>>>>>> 03beb3b (java_8_online)
+        New_Message m = new Message();
         byte b = Byte.MAX_VALUE;
         byte b1 = Byte.MIN_VALUE;
         short s = Short.MAX_VALUE;
@@ -28,5 +19,9 @@ public class Goodbye {
         m.print(String.valueOf(s));
         m.print(String.valueOf(a));
         m.print(String.valueOf(l));
+
+        System.out.println();
+        Depends d = new Depends();
+        d.console("Hello World");
     }
 }
