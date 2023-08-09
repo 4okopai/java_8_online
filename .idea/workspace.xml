@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6afaec5f-d5b8-478f-8ab0-d86888f94042" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_1/package/ua/com/alevel/Goodbye.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_1/package/ua/com/alevel/New_Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_1/separate_package/ua/com/alevel/Goodbye.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_1/separate_package/ua/com/alevel/test/New_Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_1/simple/Goodbye.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_1/union/Goodbye.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_1/union/New_Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_2/minimal_proj/src/ua/com/alevel/Goodbye.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/level_2/minimal_proj/src/ua/com/alevel/test/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1_compilation/java/remove_class.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Goodbye.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": -1
+}]]></component>
+  <component name="ProjectId" id="2Tl09BiqAZoMQbf5x2JIdJ4Ipk9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Влад/IdeaProjects/java_8_online",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Влад/IdeaProjects/java_8_online/src/Main.java",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6afaec5f-d5b8-478f-8ab0-d86888f94042" name="Changes" comment="" />
+      <created>1691593682000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691593682000</updated>
+      <workItem from="1691593682013" duration="8411000" />
+      <workItem from="1691602211305" duration="1504000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
