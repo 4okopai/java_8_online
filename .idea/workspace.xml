@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6afaec5f-d5b8-478f-8ab0-d86888f94042" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6afaec5f-d5b8-478f-8ab0-d86888f94042" name="Changes" comment="java_8_online" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +70,7 @@
       <workItem from="1694621856237" duration="702000" />
       <workItem from="1695114252035" duration="862000" />
       <workItem from="1695125350834" duration="1754000" />
-      <workItem from="1695127123561" duration="365000" />
+      <workItem from="1695127123561" duration="702000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1695126831254</created>
@@ -95,7 +93,28 @@
       <option name="project" value="LOCAL" />
       <updated>1695127378781</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Merge branch 'master' of https://github.com/4okopai/java_8_online">
+      <created>1695127505412</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695127505412</updated>
+    </task>
+    <task id="LOCAL-00005" summary="java_8_online">
+      <created>1695127629906</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695127629906</updated>
+    </task>
+    <task id="LOCAL-00006" summary="java_8_online">
+      <created>1695127635613</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695127635613</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,7 +136,9 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Changes" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/4okopai/java_8_online" />
+    <MESSAGE value="java_8_online" />
+    <option name="LAST_COMMIT_MESSAGE" value="java_8_online" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
