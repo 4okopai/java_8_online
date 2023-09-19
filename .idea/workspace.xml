@@ -4,7 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6afaec5f-d5b8-478f-8ab0-d86888f94042" name="Changes" comment="java_8_online" />
+    <list default="true" id="6afaec5f-d5b8-478f-8ab0-d86888f94042" name="Changes" comment="java_8_online">
+      <change afterPath="$PROJECT_DIR$/hw_3_crud/src/main/java/ua/com/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3_crud/src/main/java/ua/com/CrudService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3_crud/src/main/java/ua/com/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3_crud/src/main/java/ua/com/DriverController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3_crud/src/main/java/ua/com/DriverCrudService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3_crud/src/main/java/ua/com/DriverCrudServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3_crud/src/main/java/ua/com/DriverDb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3_crud/src/main/java/ua/com/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_1/dependency-reduced-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_1/run.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_1/src/main/java/ua/com/Contrl/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_1/src/main/java/ua/com/DB/DepEmplDb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_1/src/main/java/ua/com/DB/DepartmentDb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_1/src/main/java/ua/com/DB/EmployeeDb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_1/src/main/java/ua/com/Ent/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_1/src/main/java/ua/com/Ent/DepEmpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_1/src/main/java/ua/com/Ent/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_1/src/main/java/ua/com/Ent/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_1/src/main/java/ua/com/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_1/src/main/java/ua/com/Service/CrudService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_1/src/main/java/ua/com/Service/DepartmentCrudService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_1/src/main/java/ua/com/Service/EmployeeCrudService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_1/src/main/java/ua/com/Service/impl/DepartmentCrudServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_1/src/main/java/ua/com/Service/impl/EmployeeCrudServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,13 +58,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java_8_online.git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/module_1/src/main/java/ua/com/DB" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Влад\IdeaProjects\java_8_online\module_1\src\main\java\ua\com\DB" />
+      <recent name="C:\Users\Влад\IdeaProjects\java_8_online\module_1\src\main\java\ua\com\Contrl" />
+      <recent name="C:\Users\Влад\IdeaProjects\java_8_online\hw_3_crud" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -71,7 +105,7 @@
       <workItem from="1694621856237" duration="702000" />
       <workItem from="1695114252035" duration="862000" />
       <workItem from="1695125350834" duration="1754000" />
-      <workItem from="1695127123561" duration="1259000" />
+      <workItem from="1695127123561" duration="10154000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1695126831254</created>
@@ -122,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695128374594</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="java_8_online">
+      <created>1695128500021</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1695128500021</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
