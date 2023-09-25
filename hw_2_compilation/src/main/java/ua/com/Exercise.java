@@ -3,8 +3,7 @@ package ua.com;
 import java.util.HashMap;
 import java.util.Map;
 
-public class
-Exercise {
+public class Exercise {
     public static void addNumbers(String s) {
         int res = 0;
         for (int i = 0; i < s.length(); i++) {
@@ -23,7 +22,7 @@ Exercise {
             }
         }
 
-        switch (counter) {
+        switch (counter) { // нашо світч для одного кейсу?
             case 0:
                 System.out.println("No letters");
                 break;
