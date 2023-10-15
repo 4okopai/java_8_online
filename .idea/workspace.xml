@@ -5,32 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6afaec5f-d5b8-478f-8ab0-d86888f94042" name="Changes" comment="java_8_online">
-      <change afterPath="$PROJECT_DIR$/hw_3_crud/src/main/java/ua/com/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3_crud/src/main/java/ua/com/CrudService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3_crud/src/main/java/ua/com/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3_crud/src/main/java/ua/com/DriverController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3_crud/src/main/java/ua/com/DriverCrudService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3_crud/src/main/java/ua/com/DriverCrudServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3_crud/src/main/java/ua/com/DriverDb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3_crud/src/main/java/ua/com/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_1/dependency-reduced-pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_1/run.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_1/src/main/java/ua/com/Contrl/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_1/src/main/java/ua/com/DB/DepEmplDb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_1/src/main/java/ua/com/DB/DepartmentDb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_1/src/main/java/ua/com/DB/EmployeeDb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_1/src/main/java/ua/com/Ent/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_1/src/main/java/ua/com/Ent/DepEmpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_1/src/main/java/ua/com/Ent/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_1/src/main/java/ua/com/Ent/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_1/src/main/java/ua/com/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_1/src/main/java/ua/com/Service/CrudService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_1/src/main/java/ua/com/Service/DepartmentCrudService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_1/src/main/java/ua/com/Service/EmployeeCrudService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_1/src/main/java/ua/com/Service/impl/DepartmentCrudServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_1/src/main/java/ua/com/Service/impl/EmployeeCrudServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feedback.txt" beforeDir="false" afterPath="$PROJECT_DIR$/feedback.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_2_compilation/src/main/java/ua/com/Exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw_2_compilation/src/main/java/ua/com/Exercise.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +16,12 @@
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2Tl09BiqAZoMQbf5x2JIdJ4Ipk9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -53,19 +35,14 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/module_1/src/main/java/ua/com/DB" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Влад\IdeaProjects\java_8_online\module_1\src\main\java\ua\com\DB" />
@@ -179,7 +156,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
@@ -188,6 +164,10 @@
     <MESSAGE value="Merge branch 'master' of https://github.com/4okopai/java_8_online" />
     <MESSAGE value="java_8_online" />
     <option name="LAST_COMMIT_MESSAGE" value="java_8_online" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
