@@ -1,7 +1,5 @@
 package ua.com;
 
-import ua.com.Driver;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

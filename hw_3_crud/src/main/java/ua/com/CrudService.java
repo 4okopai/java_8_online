@@ -1,8 +1,5 @@
 package ua.com;
 
-import ua.com.BaseEntity;
-import ua.com.Driver;
-
 import java.io.IOException;
 
 public interface CrudService<BE extends BaseEntity> {

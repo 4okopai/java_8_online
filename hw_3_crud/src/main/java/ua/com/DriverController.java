@@ -1,9 +1,5 @@
 package ua.com;
 
-import ua.com.Driver;
-import ua.com.DriverCrudService;
-import ua.com.DriverCrudServiceImpl;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
